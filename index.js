@@ -1,2 +1,2 @@
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
 import _ from "lodash";
